@@ -6,7 +6,7 @@ var Nav = React.createClass({
     event.preventDefault();
 
     alert("Not wired up yet  =)")
-  }
+  },
   render: function(){
     return (
       <div className="top-bar">
